@@ -1,0 +1,1 @@
+Resultado (mean_AUC - std_AUC): 0.7247
